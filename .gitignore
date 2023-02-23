@@ -1,0 +1,5 @@
+app3/__pycache__/
+app3/migrations/__pycache__/
+third_project/__pycache__/
+users/__pycache__/
+users/migrations/__pycache__/
